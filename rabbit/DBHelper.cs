@@ -8,10 +8,10 @@ namespace rabbit
 {
     public static class DbHelper
     {
-        //public static bool Connect(string connectionSting)
-        //{
-        //    throw new NotImplementedException();
-        //}
+        public static bool Connect(string connectionSting)
+        {
+            throw new NotImplementedException();
+        }
 
         public static List<string> GetDatabases(string connectionString)
         {
