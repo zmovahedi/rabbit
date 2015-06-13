@@ -1,4 +1,4 @@
-namespace rabbit
+﻿namespace rabbit
 {
     public class ColumnInfo
     {
@@ -10,5 +10,7 @@ namespace rabbit
         public bool IsRowGuidCol { get; set; }
         public bool IsIdentity { get; set; }
         public bool IsComputed { get; set; }
+        //dsdsa
+        
     }
 }
